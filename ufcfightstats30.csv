@@ -1,0 +1,31 @@
+﻿id,red_f,blue_f,win_method,r_strikes,b_strikes,r_sigstrikes,b_sigstrikes,r_takedowns,b_takedowns,r_knockdowns,b_knockdowns,r_subtemps,b_subtemps,r_pass,b_pass,r_rev,b_rev,winner,r_last1,r_last2,r_last3,b_last1,b_last2,b_last3
+1,edson barboza,justin gaethje,1,26,44,26,40,0,0,0,2,0,0,0,0,0,0,blue,L,W,L,W,W,L
+2,david branch,jack hermansson,2,2,6,2,6,0,2,0,0,0,2,0,0,0,0,blue,L,L,W,W,W,W
+3,josh emmett,michael johnson,1,44,48,44,48,0,0,2,0,0,0,0,0,0,0,red,W,L,W,L,W,W
+4,kennedy nzechukwu,paul craig,2,94,62,80,50,0,2,0,0,0,4,2,0,0,2,blue,L,W,W,W,L,W
+5,sodiq yusuff,sheymon moraes,3,198,116,146,108,0,2,0,0,0,0,0,0,0,0,red,W,W,W,L,W,W
+6,stephen thompson,anthony pettis,1,94,64,94,64,0,0,0,2,0,0,0,0,0,0,blue,L,L,W,W,L,W
+7,curtis blaydes,justin willis,3,144,18,44,4,14,0,0,0,0,0,0,10,0,0,red,W,L,W,L,W,W
+8,john makdessi,jesus pinedo,3,150,74,146,74,0,0,0,0,0,0,0,0,0,0,red,W,W,W,L,W,W
+9,jussier formiga,deiveson figueiredo,3,102,82,52,28,6,0,0,0,0,0,0,2,0,0,red,W,W,W,L,W,W
+10,luis pena, steven peterson,3,132,114,104,68,2,8,0,0,0,2,8,6,4,0,red,W,L,W,L,W,L
+11,darren till,jorge masvidal,1,44,82,42,70,2,2,2,2,0,0,2,4,0,0,blue,L,L,W,W,L,L
+12,leon edwards,gunnar nelson,3,94,54,62,18,4,6,1,0,0,0,2,4,0,0,red,W,W,W,L,W,L
+13,volkan oezdemir,dominick reyes,3,96,94,70,88,2,0,0,0,0,0,0,2,0,0,blue,L,L,L,W,W,W
+14,nathaniel wood,jose quinonez,2,78,70,60,68,4,2,0,0,4,0,0,2,2,0,red,W,W,W,L,W,W
+15,danny roberts,claudio silva,2,58,70,52,38,0,6,0,0,0,8,2,2,6,0,blue,L,W,W,W,W,W
+16,jack marshman,john phillips,3,62,70,62,64,0,0,0,2,0,0,0,0,0,0,red,W,L,L,L,L,L
+17,jon jones,anthony smith,3,238,45,125,36,3,0,0,0,0,0,2,0,0,0,red,W,W,W,L,W,W
+18,tyron woodley,kamaru usman,3,60,336,34,141,0,2,0,0,0,0,0,0,0,0,blue,L,W,W,W,W,W
+19,robbie lawler,ben askren,2,30,3,26,0,1,1,0,0,0,1,0,1,0,0,blue,L,L,W,W,W,W
+20,cody garbrandt,pedro munhoz,1,42,56,42,50,0,0,0,2,0,0,0,0,0,0,blue,L,L,L,W,W,W
+21,israel adesanya,anderson silva,3,130,68,130,62,0,0,0,0,0,0,0,0,0,0,red,W,W,W,L,W,L
+22,lando vannata,marcos mariano,2,39,4,20,3,1,0,0,0,1,0,0,0,0,0,red,W,D,L,L,W,L
+23,rani yahya,ricky simon,3,52,66,47,54,0,4,0,2,0,0,3,0,0,0,blue,L,W,W,W,W,W
+24,jimmy crute,sam alvey,1,17,3,14,3,0,0,1,0,0,0,0,1,0,0,red,W,W,W,L,L,W
+25,jon jones,alexander gustafsson,1,126,48,118,44,2,0,0,0,0,0,0,0,0,0,red,W,W,W,L,W,W
+26,carlos condit,michael chiesa,2,40,32,10,20,0,8,0,0,2,2,4,0,2,0,blue,L,L,L,W,L,L
+27,ilir latifi,corey anderson,3,68,90,66,80,0,0,0,0,0,0,0,0,0,0,blue,L,W,W,W,W,W
+28,chad mendes,alexander volkanovski,1,56,108,56,108,6,0,2,2,0,0,0,8,0,0,blue,L,W,L,W,W,W
+29,max holloway,brian ortega,1,614,224,580,220,2,4,0,0,0,0,4,2,0,0,red,W,W,W,L,W,W
+30,alex oliveira,gunnar nelson,2,104,40,72,22,0,4,0,0,0,2,0,0,2,0,blue,L,W,W,L,W,L
